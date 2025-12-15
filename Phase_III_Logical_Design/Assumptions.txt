@@ -1,6 +1,6 @@
-1. Each customer can own multiple insurance policies.
-2. A policy can be assigned to many customers.
-3. A customer policy must be active before a claim is submitted.
-4. Payments must be completed before policy activation.
-5. Approved claim amount cannot exceed policy coverage.
-6. Policy status is automatically updated based on end date.
+ Each customer can own multiple insurance policies.
+ A policy can be assigned to many customers.
+ A customer policy must be active before a claim is submitted.
+ Payments must be completed before policy activation.
+ Approved claim amount cannot exceed policy coverage.
+ Policy status is automatically updated based on end date.
