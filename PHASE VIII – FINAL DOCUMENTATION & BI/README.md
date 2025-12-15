@@ -2,8 +2,9 @@
 ## INSY 8311 – Database Development with PL/SQL
 
 ### Student Information
-Name: Olivier NIYIBIZI
-Student ID: 28248
+**Name: Olivier NIYIBIZI**
+
+**Student ID: 28248**
 
 ### Project Overview
 This project implements a centralized insurance management system using Oracle Database and PL/SQL to automate policy management, premium payments, and claims processing.
